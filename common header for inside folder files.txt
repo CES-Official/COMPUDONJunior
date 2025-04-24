@@ -1,0 +1,48 @@
+	<header id='header' class='all_colors header_color dark_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_custom av_header_sticky av_header_shrinking_disabled av_header_stretch_disabled av_mobile_menu_tablet av_header_searchicon_disabled av_header_unstick_top_disabled av_minimal_header av_bottom_nav_disabled  av_alternate_logo_active av_header_border_disabled' data-av_shrink_factor='50' role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+			<div id='header_meta' class='container_wrap container_wrap_meta  av_icon_active_right av_extra_header_active av_phone_active_left av_entry_id_734'>
+	
+					  <div class='container'>
+					  <ul class='noLightbox social_bookmarks icon_count_5'><li class='social_bookmarks_facebook av-social-link-facebook social_icon_1'><a target="_blank" aria-label="Link to Facebook" href='https://www.facebook.com/compudonjunior' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Facebook' rel="noopener"><span class='avia_hidden_link_text'>Facebook</span></a></li><li class='social_bookmarks_twitter av-social-link-twitter social_icon_2'><a target="_blank" aria-label="Link to X" href='https://twitter.com/compudonjunior' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='X' rel="noopener"><span class='avia_hidden_link_text'>X</span></a></li><li class='social_bookmarks_youtube av-social-link-youtube social_icon_3'><a target="_blank" aria-label="Link to Youtube" href='https://www.youtube.com/user/Compudon2011' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Youtube' rel="noopener"><span class='avia_hidden_link_text'>Youtube</span></a></li><li class='social_bookmarks_flickr av-social-link-flickr social_icon_4'><a target="_blank" aria-label="Link to Flickr" href='https://www.flickr.com/photos/compudon_memoirs' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Flickr' rel="noopener"><span class='avia_hidden_link_text'>Flickr</span></a></li><li class='social_bookmarks_whatsapp av-social-link-whatsapp social_icon_5'><a target="_blank" aria-label="Link to WhatsApp" href='https://wa.me/918383056545' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='WhatsApp' rel="noopener"><span class='avia_hidden_link_text'>WhatsApp</span></a></li></ul>
+					  <div class='phone-info '><div>
+						<p style="color:#ffffff; font-family: Goudy Old Style;""> For enrolling/queries, write to us at <a href="mailto:info@compudonjunior.com"> support-team@compudonjunior.co.in</a></p></div></div>			      </div>
+			</div>
+	
+			<div  id='header_main' class='container_wrap container_wrap_logo'>
+	
+			<div class='container av-logo-container'><div class='inner-container'><span class='logo avia-standard-logo'><a href='index.html' class='' aria-label='COMPUDON JUNIOR Transparent' title='COMPUDON JUNIOR Transparent'><img src="../wp-content/uploads/2022/10/COMPUDON-JUNIOR-Transparent.png" sizes="(max-width: 1006px) 100vw, 1006px" height="100" width="300" alt='Compudon Junior' title='COMPUDON JUNIOR Transparent' /></a></span><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul role="menu" class="menu av-main-nav" id="avia-menu"><li role="menuitem" id="menu-item-755" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-top-level menu-item-top-level-1"><a href="index.html" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Home</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+	<li role="menuitem" id="menu-item-4400" class="menu-item menu-item-type-taxonomy menu-item-object-nav_menu menu-item-has-children menu-item-top-level menu-item-top-level-2"><a href="index.html%3Ftaxonomy=nav_menu&amp;term=winners.html" itemprop="url" tabindex="0"><span class="avia-bullet"></span>
+		<span class="avia-menu-text">Winners</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+	
+	
+	<ul class="sub-menu">
+		<li role="menuitem" id="menu-item-3262" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="../regional-winners/index.html" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Regional Winners</span></a></li>
+		<li role="menuitem" id="menu-item-5104" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="../international-winners/index.html" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">International Winners</span></a></li>
+		<li role="menuitem" id="menu-item-3652" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="../rankholders/index.html" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">National Rank Holders</span></a></li>
+		<li role="menuitem" id="menu-item-5879" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../finalists/index.html" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">India Finalists</span></a></li>
+		<li role="menuitem" id="menu-item-5108" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="../past-winners/index.html" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Past Winners</span></a></li>
+	</ul>
+	</li>
+	<li role="menuitem" id="menu-item-3653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-3"><a href="../prizes/index.html" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Prizes</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+	<li role="menuitem" id="menu-item-4420" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-4"><a href="../registration/index.html" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Registration</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+	<li role="menuitem" id="menu-item-3261" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-5"><a href="../rules/index.html" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Rules</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+	<li role="menuitem" id="menu-item-3263" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-6"><a href="../blog-2/index.html" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Blog</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+	<li role="menuitem" id="menu-item-3260" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-7"><a href="../hall-of-fame/index.html" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Hall of Fame</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+	<li role="menuitem" id="menu-item-4408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-8"><a href="../gallery/index.html" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Gallery</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+	<li role="menuitem" id="menu-item-5564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-9"><a href="../about/index.html" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">About Us</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+	<li class="av-burger-menu-main menu-item-avia-special av-small-burger-icon" role="menuitem">
+							<a href="index.html#" aria-label="Menu" aria-hidden="false">
+								<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+									<span class="av-hamburger-box">
+									  <span class="av-hamburger-inner"></span>
+									  <strong>Menu</strong>
+									</span>
+								</span>
+								<span class="avia_hidden_link_text">Menu</span>
+							</a>
+						   </li></ul></div></nav></div> </div> 
+			<!-- end container_wrap-->
+			</div>
+	<div class="header_bg"></div>
+	<!-- end header -->
+	</header>
